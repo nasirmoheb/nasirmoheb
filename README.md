@@ -1,4 +1,4 @@
-Hi 👋 My name is Nasir Ahmad Moheb
+Hi 👋 I'm Nasir Ahmad Moheb
 ==================================
 
 Fullstack JavaScript Developer
